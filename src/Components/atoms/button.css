@@ -1,0 +1,7 @@
+.btn-primary {
+    @apply text-primary border-secondary border-2
+}
+
+.btn-secondary {
+    @apply text-primary rounded-full bg-secondary border-secondary
+}

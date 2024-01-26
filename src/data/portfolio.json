@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "judul": "Spaskib Website",
+    "deskripsi": "Spaskib Website adalah Sistem Pendukung Keputusan Seleksi Penerimaan Anggota Paskibraka Kabupaten Biak Numfor. Sistem ini dikembangkan sebagai syarat menyelesaikan skripsi. Spaskib website menggunakan metode Profile Matching sebagai metode pengambilan keputusan. Manfaat dari aplikasi ini adalah memudahkan panitia seleksi dalam memutuskan anggota paskibraka yang akan diterima",
+    "teknologi": ["Laravel", "Jquery", "MySQL"],
+    "thumbnail": "thumbnail_spaskib.png",
+    "gambar": [
+      "spaskib1.png",
+      "spaskib2.png",
+      "spaskib3.png",
+      "spaskib4.png",
+      "spaskib5.png",
+      "spaskib6.png",
+      "spaskib7.png",
+      "spaskib8.png",
+      "spaskib9.png"
+    ]
+  },
+  {
+    "id": 2,
+    "judul": "Company Profile Lowokwaru",
+    "deskripsi": "Company Profile ini dikembangkan sebagai syarat menyelesaikan PKL pada Kantor Kecamatan Lowokwaru. Manfaat dari pengembangan website ini memudahkan masyarakat dalam mengakses informasi yang diberikan oleh Kantor Kecamatan Lowokwaru, memudahkan pihak karyawan Kantor dalam memberikan informasi terbaru tanpa harus bertemu langsung dengan masyarakat",
+    "teknologi": ["Laravel", "MySQL"],
+    "thumbnail": "thumbnail_company.png",
+    "gambar": [
+      "company1.png",
+      "company2.png",
+      "company3.png",
+      "company4.png",
+      "company5.png",
+      "company6.png"
+    ]
+  },
+  {
+    "id": 3,
+    "judul": "MoonTon",
+    "deskripsi": "Spaskib Website adalah Sistem Pendukung Keputusan Seleksi Penerimaan Anggota Paskibraka Kabupaten Biak Numfor. Sistem ini dikembangkan sebagai syarat menyelesaikan skripsi. Spaskib website menggunakan metode Profile Matching sebagai metode pengambilan keputusan. Manfaat dari aplikasi ini adalah memudahkan panitia seleksi dalam memutuskan anggota paskibraka yang akan diterima",
+    "teknologi": ["Laravel", "Tailwind", "React Js", "MySQL"],
+    "thumbnail": "thumbnail_moonton.png",
+    "gambar": ["moonton1.png", "moonton2.png", "moonton3.png", "moonton4.png"]
+  }
+]
